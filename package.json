@@ -14,6 +14,10 @@
   "categories": [
     "Other"
   ],
+  "keywords": [
+    "Markdown",
+    "Heading"
+  ],
   "activationEvents": [
     "onCommand:markdown-heading-adjuster.increase",
     "onCommand:markdown-heading-adjuster.decrease",
