@@ -30,11 +30,13 @@
     "commands": [
       {
         "command": "markdown-heading-adjuster.selectAll",
-        "title": "md-heading: Select All"
+        "title": "Select All",
+        "category": "md-heading"
       },
       {
         "command": "markdown-heading-adjuster.splitSelections",
-        "title": "md-heading: Split Selection"
+        "title": "Split Selection",
+        "category": "md-heading"
       }
     ],
     "keybindings": [
